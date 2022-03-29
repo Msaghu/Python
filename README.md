@@ -1,2 +1,2 @@
 # Python
-Practice code for Python s i learn
+Practice code for Python as I learn
